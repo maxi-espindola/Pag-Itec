@@ -70,3 +70,33 @@ ul, li {
     display: block;
     color: white;
 }
+
+.h2 {
+    margin: 50px 0px 10px 10%;
+    color: #2B7C8D;
+}
+
+.h3 {
+    margin: 50px 0px 10px 10%;
+    color: #2B7C8D;
+}
+
+.h4 {
+    margin: 50px 0px 10px 10%;
+    color: #2B7C8D;
+}
+
+.h5 {
+    margin: 50px 0px 10px 10%;
+    color: #2B7C8D;
+}
+
+.h6 {
+    margin: 50px 0px 10px 10%;
+    color: #2B7C8D;
+}
+
+.h7 {
+    margin: 50px 0px 10px 40%;
+    color: #2B7C8D;
+}
